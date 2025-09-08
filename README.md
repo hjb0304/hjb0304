@@ -7,7 +7,9 @@
 만들고 싶은 프론트엔드 개발자 배희정입니다. <br>
 
 React, TypeScript, Next.js, HTML5, CSS3을 공부하고 있습니다. <br>
-새로운 기술을 탐구하고 실전에 적용해보는 것을 좋아합니다.
+새로운 기술을 탐구하고 실전에 적용해보는 것을 좋아합니다. <br>
+<br>
+[![Today](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fhjb0304?color=blue&label=Today&size=small)](https://myhits.vercel.app)
 
 </div>
 
