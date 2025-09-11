@@ -14,12 +14,6 @@ React, TypeScript, Next.js, HTML5, CSS3을 공부하고 있습니다. <br>
 </div>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ---
 
@@ -38,4 +32,14 @@ React, TypeScript, Next.js, HTML5, CSS3을 공부하고 있습니다. <br>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
 
+</div>
+
+<br>
+
+---
+
+<div>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/hjb0304"/>
+  </a>
 </div>
